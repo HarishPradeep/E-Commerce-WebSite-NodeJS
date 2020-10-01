@@ -4,7 +4,7 @@
   "description": "E-Commerce WebSite",
   "main": "app.js",
   "scripts": {
-    "test": "Fashion E-Commerce Web Site"
+    "start": "npm i nodemon && nodemon start"
   },
   "keywords": [
     "Fashion",
